@@ -3,21 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "broini sistemi", "broini sistemi.csproj", "{ABA1AABB-0163-46A8-94C1-AA3A02CDC3BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadacha1", "Zadacha1.csproj", "{ABA1AABB-0163-46A8-94C1-AA3A02CDC3BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sredno atermetichno", "..\sredno atermetichno\sredno atermetichno.csproj", "{7A4C3493-D0B3-4805-AB9E-18E8A32F5454}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadacha2", "..\sredno atermetichno\Zadacha2.csproj", "{7A4C3493-D0B3-4805-AB9E-18E8A32F5454}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matrix", "..\matrix\matrix.csproj", "{2A3CDF63-15D0-4B56-9E26-5B287E7458C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadacha3", "..\matrix\Zadacha3.csproj", "{2A3CDF63-15D0-4B56-9E26-5B287E7458C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "koreni i polenom", "..\koreni i polenom\koreni i polenom.csproj", "{F742438D-8644-4DB4-A714-36D8F6C97D40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadacha4", "..\koreni i polenom\Zadacha4.csproj", "{F742438D-8644-4DB4-A714-36D8F6C97D40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D", "..\3D\3D.csproj", "{D1AB0A18-A988-4178-8B32-76273364473A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadacha5", "..\3D\Zadacha5.csproj", "{D1AB0A18-A988-4178-8B32-76273364473A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sechenie obedinenie razlika", "..\sechenie obedinenie razlika\sechenie obedinenie razlika.csproj", "{F0A1B42A-56E9-4AE8-8A35-49A5A6F4C81C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadacha6", "..\sechenie obedinenie razlika\Zadacha6.csproj", "{F0A1B42A-56E9-4AE8-8A35-49A5A6F4C81C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P K V", "..\P K V\P K V.csproj", "{50CD946B-5138-4DBE-854B-C12D20F6D460}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadacha7", "..\P K V\Zadacha7.csproj", "{50CD946B-5138-4DBE-854B-C12D20F6D460}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100 000", "..\100 000\100 000.csproj", "{E4A2512D-C09A-4118-9737-996B0EF258D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadacha8", "..\100 000\Zadacha8.csproj", "{E4A2512D-C09A-4118-9737-996B0EF258D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
